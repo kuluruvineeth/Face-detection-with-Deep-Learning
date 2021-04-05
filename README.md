@@ -26,4 +26,9 @@ The network uses a cascade structure with three networks :
 ![pic2](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/test3.jpg)
 ![pic3](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/test6.jpg)
 
+## Resultant Photographs
+![res1](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/pic1.jpg)
+![res2](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/pic2.jpg)
+![res3](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/pic3.jpg)
+
 
