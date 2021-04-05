@@ -31,4 +31,9 @@ The network uses a cascade structure with three networks :
 ![res2](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/pic2.jpg)
 ![res3](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/pic3.jpg)
 
+## Conclusion
+* Face detection is a computer vision problem for identifying and localizing faces in images
+* State-of-the-art face detection can be achieved using a **Multi-task Cascade CNN** via the MTCNN library
+
+
 
