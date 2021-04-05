@@ -7,3 +7,13 @@ Perhaps one of the more popular approaches is called the *"Multi-Task Cascaded C
 ## Why MTCNN Popular?
 * Because it achieved then state-of-the-art results on a range of benchmark datasets.
 * Because it is capable of also recognizing other facial features such as eyes,nose and mouth,called landmark detection.
+
+## Working of MTCNN
+The network uses a cascade structure with three networks : 
+1. **Image Pyramid** - First the image is rescaled to a range of different sizes
+2. **Proposal Network** - This first model proposes candidate facial regions.
+3. **Refine Network** - This second model filters the bounding boxes.
+4. **Output Network** - This third model proposes facial landmarks.
+
+### pictorial representation of above working
+   ![mtcnn working](https://raw.githubusercontent.com/kuluruvineeth/Face-detection-with-Deep-Learning/main/mtcnn.webp)
