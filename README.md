@@ -21,3 +21,9 @@ The network uses a cascade structure with three networks :
 ## How to setup MTCNN ?
 * [mtcnn setup](https://pypi.org/project/mtcnn/)
 
+## Photograps I used
+![pic1](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/test1.jpg)
+![pic2](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/test3.jpg)
+![pic3](https://github.com/kuluruvineeth/Face-detection-with-Deep-Learning/blob/main/test6.jpg)
+
+
