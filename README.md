@@ -15,5 +15,9 @@ The network uses a cascade structure with three networks :
 3. **Refine Network** - This second model filters the bounding boxes.
 4. **Output Network** - This third model proposes facial landmarks.
 
-### pictorial representation of above working
+### Pictorial representation of above working
    ![mtcnn working](https://raw.githubusercontent.com/kuluruvineeth/Face-detection-with-Deep-Learning/main/mtcnn.webp)
+   
+## How to setup MTCNN ?
+* [mtcnn setup](https://pypi.org/project/mtcnn/)
+
